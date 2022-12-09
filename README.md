@@ -9,3 +9,9 @@ Hi, I'm an undergrad student studying Information Technology. I'm good at solvin
 Rajat2024/Rajat2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Designation - Problem Setter in CPP	  
+<!--- --->
+iMochaWorks	05/2022–12/2022
+<!--- --->
+I worked as a Problem Setter  at iMochaWorks and it has been an amazing experience for me. Problem setting itself has allowed me to brush up on all my previously learned concepts including DSA.
