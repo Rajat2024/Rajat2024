@@ -1,17 +1,21 @@
-- 👋 Hi, I’m @Rajat_Singh
-- 👀 I’m interested in SDE Role
-- 🌱 I’m currently learning MERN Devlopment
-- 📫 How to reach me https://www.linkedin.com/in/rajat-singh-b6a92b212/
+# 💫 About Me:
+👋 Hi, I’m @Rajat_Singh<br>👀 I’m interested in SDE Role<br>🌱 I’m currently learning MERN Devlopment<br>📫 How to reach me https://www.linkedin.com/in/rajat-singh-b6a92b212/<br>Hi, I'm an undergrad student studying Information Technology. I'm good at solving problems. My current position in imochaWorks is problem setter (DSA) and I've solved over 450 leetcode questions to improve my data structure and algorithm skills. In addition, I am a web developer with good skills in JavaScript, React JS, Node JS, and MongoDB. My interest is in software development opportunities (SDE-role).<br><br>Designation - Problem Setter in CPP<br><br>iMochaWorks 05/2022–12/2022<br><br>I worked as a Problem Setter at iMochaWorks and it has been an amazing experience for me. Problem setting itself has allowed me to brush up on all my previously learned concepts including DSA.
 
 
-Hi, I'm an undergrad student studying Information Technology. I'm good at solving problems. My current position in imochaWorks is problem setter (DSA) and I've solved over 450 leetcode questions to improve my data structure and algorithm skills. In addition, I am a web developer with good skills in JavaScript, React JS, Node JS, and MongoDB. My interest is in software development opportunities (SDE-role).
-<!---
-Rajat2024/Rajat2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌐 Socials:
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/Rajat2024) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rajat-singh-b6a92b212/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Rajatsi16812370) 
 
-Designation - Problem Setter in CPP	  
-<!--- --->
-iMochaWorks	05/2022–12/2022
-<!--- --->
-I worked as a Problem Setter  at iMochaWorks and it has been an amazing experience for me. Problem setting itself has allowed me to brush up on all my previously learned concepts including DSA.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rajat2024&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rajat2024&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajat2024&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Rajat2024&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Rajat2024&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
