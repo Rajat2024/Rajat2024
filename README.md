@@ -16,6 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Rajat2024&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rajat2024&label=Profile%20Views&color=2&icon=5&pretty=true)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rajat2024&label=Profile%20views&color=0e75b6&style=flat" alt="Rajat2024" /> </p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
