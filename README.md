@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Rajat2024&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rajat2024&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajat2024&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+[![An image of @rajat2024's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rajat2024)](https://holopin.io/@rajat2024)
 # 📚  Leetcode Stats: 
 [![Rajat241302's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Rajat241302&theme=Light)](https://github.com/JeremyTsaii/leetcode-stats)
 ## 🏆 GitHub Trophies
